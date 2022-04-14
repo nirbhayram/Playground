@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "baseUrl": "./src"
+  },
+  "references": [],
+  "include": ["./src", "src/sw.js"],
+  "exclude": ["./src/mobile/jitsi-lib/*"]
+}

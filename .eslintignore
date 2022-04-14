@@ -1,0 +1,8 @@
+**/build
+**/dist
+**/node_modules
+
+# ignore for generated file
+generated
+schema-json.json
+schema.ts

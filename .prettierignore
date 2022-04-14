@@ -1,0 +1,6 @@
+# ignore for generated file
+schema-json.json
+schema.ts
+generated
+build
+coverage
